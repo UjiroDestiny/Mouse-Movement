@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.glowing{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background: radial-gradient(circle, rgba(6, 245, 18, 0.938) 0%, rgba(208, 244, 3, 0.15) 100%);
+    box-shadow: 0px 0px 48px rgba(255, 255, 255, 0.973);
+}
